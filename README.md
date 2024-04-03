@@ -24,3 +24,8 @@ pip install beautifulsoup4
 [How to Check Broken Links with 404 Error in Python][1]
 
 [1]:https://www.dynamsoft.com/codepool/python-check-broken-links-404.html
+
+
+
+## html in python:
+https://stackoverflow.com/questions/41857610/use-a-variable-inside-html-email
